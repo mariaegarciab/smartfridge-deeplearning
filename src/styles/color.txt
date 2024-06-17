@@ -1,0 +1,5 @@
+blue #102f4d
+white #fef9e2
+yellow green #f1f458
+orange #e95e29
+pink #ef86ae
